@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**VuDuyDiepAI/VuDuyDiepAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there! I'm an AI Engineer
 
-Here are some ideas to get you started:
+💻 **AI Engineer | Machine Learning | Deep Learning | Clinical AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🤖 Passionate about Artificial Intelligence
+- 🧠 Exploring LLMs, RAG, and AI Agents
+- 🏥 Interested in Clinical AI and healthcare applications
+- 🔬 Building real-world AI solutions
+
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL
+- **AI/ML:** PyTorch, Scikit-learn
+- **Generative AI:** LLMs, RAG
+- **Tools:** Git, Docker, FastAPI
+
+### 📫 Connect with Me
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+- Email: your-email@example.com
+  
